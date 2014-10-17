@@ -60,7 +60,13 @@ When you add your name to the list, give yourself the next consecutive number av
 29) LAMBERT, BRAD
 30) Dorje-Chang , Lobsang
 <<<<<<< HEAD
+<<<<<<< HEAD
 31) Duberstein, Scott
 =======
 31) Bosalha, Nouf
 >>>>>>> 4889497ce85b0639c8990326e8783fe8ea83f447
+=======
+31) Bosalha, Nouf
+32) Manger, Brandon 
+
+>>>>>>> 0d39e5ab33b5ea012829bca6ecb6e5bb7a4041be
