@@ -77,8 +77,14 @@ When you add your name to the list, give yourself the next consecutive number av
 38) Crank, Josh
 39) Van Eps, Jeremy
 <<<<<<< HEAD
+<<<<<<< HEAD
 40) Carter, Darryl
 =======
 40) Rosen, Jon
 
 >>>>>>> 0f76aa7974f012b1198685b349e44cea80fce26e
+=======
+40) Rosen, Jon
+
+41) Simmons, Richard
+>>>>>>> 6e8c90d4e1855d42909283642f4c87b82e0416a1
