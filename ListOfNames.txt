@@ -1,3 +1,4 @@
+
 Instructions:
 Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
 When you add your name to the list, give yourself the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
@@ -14,4 +15,4 @@ When you add your name to the list, give yourself the next consecutive number av
 10) Patel, Brij
 11) Vanderhorst, Krista
 12) PYLES, JONATHON
-
+13) Cody Reichard
