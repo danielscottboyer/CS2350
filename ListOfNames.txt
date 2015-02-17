@@ -18,5 +18,13 @@ When you add your name to the list, give yourself the next consecutive number av
 13) Cody Reichard
 14) Copper, Kevin
 15) KLOSTERMAN, SAMANTHA
+<<<<<<< HEAD
 16) Partin, Michael
 17) Landes, Eric
+=======
+<<<<<<< HEAD
+16) Bajaj, Goonmeet
+=======
+17) Partin, Michael
+>>>>>>> a462969fdb2417e9def785e1e72200ef3f
+>>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
