@@ -23,6 +23,7 @@ When you add your name to the list, give yourself the next consecutive number av
 <<<<<<< HEAD
 16) Partin, Michael
 17) Landes, Eric
+18) Zink, Ryan
 =======
 <<<<<<< HEAD
 16) Bajaj, Goonmeet
@@ -148,5 +149,19 @@ When you add your name to the list, give yourself the next consecutive number av
 32) Clay, Jordan
 33) Burkitt, Jordan
 >>>>>>> c7396bc8a917647bf9b806cd8254bc23b9849a06
+<<<<<<< HEAD
+35) Parks, Cynthia
+
+=======
 34) Canfield, Brandin
+<<<<<<< HEAD
 35) DOWNS, COURTNEY
+=======
+<<<<<<< HEAD
+>>>>>>> 9ba8eed92f40257f6a13888006cc37c01b54f141
+=======
+35)WOLFER,ETHAN
+>>>>>>> 4784e0a47c9554ae232e5b8e59b69469a69d124a
+36) Gregory, COllin
+37) Parker, Jerome
+>>>>>>> 0e46fc1e0ad1147ad803e303bb6174abc449bfd2
