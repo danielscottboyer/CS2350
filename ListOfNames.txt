@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 https://github.com/erikbuck/CS2350
 Instructions:
 Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
@@ -76,3 +77,74 @@ When you add your name to the list, give yourself the next consecutive number av
 33)Johnson,Dexter
 <<<<<<<<<<Yo dex is here
 34)Ash, Elizabeth
+=======
+https://github.com/erikbuck/CS2350
+Instructions:
+Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
+When you add your name to the list, give yourself the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
+
+1) BUCK, ERIK
+2) BALASURIYA, LAKSHIKA *balasuriya3Lak
+3) HEWITT, JACOB  
+4) KOZAR, SALLY
+5) KONICKI, ANDREW
+6) BORKOWSKI, JEFFREY
+7) Cooper III, James L.
+8) Stevenson, Joshua
+9) Rutkowski, Michael
+10) Patel, Brij
+11) Vanderhorst, Krista
+12) PYLES, JONATHON
+13) Cody Reichard
+14) Copper, Kevin
+15) KLOSTERMAN, SAMANTHA
+16) Cole, Zachary
+<<<<<<< HEAD
+16) Partin, Michael
+17) Landes, Eric
+=======
+<<<<<<< HEAD
+16) Bajaj, Goonmeet
+17) Drow, Anthony
+=======
+17) Partin, Michael
+>>>>>>> a462969fdb2417e9def785e1e72200ef3f
+>>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
+<<<<<<< HEAD
+18) DUNAWAY, PAUL
+=======
+18) Huggins, Jerry
+>>>>>>> 5b21c72d82bd41e750efc37bd5cf601adab0673e
+19) Baum, Nathan
+20) Hale, Kaitlyn
+<<<<<<< HEAD
+21) Woodie, Alexander
+======= 
+<<<<<<< HEAD
+=======
+21) Watkins,Maurice
+22) Pujara,Ajay
+>>>>>>> testbranch
+23) Hughes, Patrick
+>>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
+24) Oliver, Quintin
+<<<<<<< HEAD
+25) Donavan, Patrick
+=======
+26) Parrish, Ricardo
+>>>>>>> 83eff22e0ce7d9e63d3a4bd6955677c9c7af0b71
+<<<<<<< HEAD
+27) Brown, Anthony
+28) Brown, Anthony
+
+=======
+<<<<<<< HEAD
+29) Spanbauer, Christopher
+=======
+30) Green, Allison
+>>>>>>> f40f79db8077c4ff60596a265c053e0416ae2201
+>>>>>>> e735ce306ae4a747aaa0ed8dbdf7db2965cb5ba5
+31) Smith, Ian
+32) Clay, Jordan
+33) Burkitt, Jordan
+>>>>>>> c7396bc8a917647bf9b806cd8254bc23b9849a06
