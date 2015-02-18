@@ -1,4 +1,4 @@
-
+https://github.com/erikbuck/CS2350
 Instructions:
 Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
 When you add your name to the list, give yourself the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
@@ -44,7 +44,7 @@ When you add your name to the list, give yourself the next consecutive number av
 21) Watkins,Maurice
 22) Pujara,Ajay
 >>>>>>> testbranch
-
+23) Hughes, Patrick
 >>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
 23) Oliver, Quintin
 24) Parrish, Ricardo
