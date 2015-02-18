@@ -148,5 +148,9 @@ When you add your name to the list, give yourself the next consecutive number av
 32) Clay, Jordan
 33) Burkitt, Jordan
 >>>>>>> c7396bc8a917647bf9b806cd8254bc23b9849a06
+<<<<<<< HEAD
 35) Parks, Cynthia
 
+=======
+34) Canfield, Brandin
+>>>>>>> 9ba8eed92f40257f6a13888006cc37c01b54f141
