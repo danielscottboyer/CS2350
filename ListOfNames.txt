@@ -39,7 +39,7 @@ When you add your name to the list, give yourself the next consecutive number av
 20) Hale, Kaitlyn
 <<<<<<< HEAD
 21) Woodie, Alexander
-=======
+======= 
 <<<<<<< HEAD
 =======
 21) Watkins,Maurice
@@ -47,21 +47,26 @@ When you add your name to the list, give yourself the next consecutive number av
 >>>>>>> testbranch
 23) Hughes, Patrick
 >>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
-23) Oliver, Quintin
+24) Oliver, Quintin
 <<<<<<< HEAD
-24) Donavan, Patrick
+25) Donavan, Patrick
 =======
-24) Parrish, Ricardo
+26) Parrish, Ricardo
 >>>>>>> 83eff22e0ce7d9e63d3a4bd6955677c9c7af0b71
 <<<<<<< HEAD
-25) Brown, Anthony
-26) Brown, Anthony
+27) Brown, Anthony
+28) Brown, Anthony
 
 =======
 <<<<<<< HEAD
-25) Spanbauer, Christopher
+29) Spanbauer, Christopher
 =======
-25) Green, Allison
+30) Green, Allison
 >>>>>>> f40f79db8077c4ff60596a265c053e0416ae2201
 >>>>>>> e735ce306ae4a747aaa0ed8dbdf7db2965cb5ba5
-26) Michael, Morath
+<<<<<<< HEAD
+26*) Michael, Morath
+=======
+31) Smith, Ian
+32) Clay, Jordan
+>>>>>>> 895022891bf6fb9d27254e237cc548102b879b1b
