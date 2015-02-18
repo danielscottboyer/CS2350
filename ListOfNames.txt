@@ -153,4 +153,8 @@ When you add your name to the list, give yourself the next consecutive number av
 
 =======
 34) Canfield, Brandin
+<<<<<<< HEAD
 >>>>>>> 9ba8eed92f40257f6a13888006cc37c01b54f141
+=======
+35)WOLFER,ETHAN
+>>>>>>> 4784e0a47c9554ae232e5b8e59b69469a69d124a
