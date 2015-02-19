@@ -1,8 +1,10 @@
 <<<<<<< HEAD
 https://github.com/erikbuck/CS2350
 Instructions:
-Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
-When you add your name to the list, give yourself the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
+Each student must add their name with a number to the end of the list in the format: 1) 
+LASTNAME, FIRSTNAME
+When you add your name to the list, give yourself the next consecutive number available.
+e.g. if you are the 17th person to add your name, give yourself number 17).
 
 1) BUCK, ERIK
 2) BALASURIYA, LAKSHIKA *balasuriya3Lak
@@ -81,8 +83,10 @@ When you add your name to the list, give yourself the next consecutive number av
 =======
 https://github.com/erikbuck/CS2350
 Instructions:
-Each student must add their name with a number to the end of the list in the format 1) LASTNAME, FIRSTNAME
-When you add your name to the list, give yourself the next consecutive number available. e.g. if you are the 17th person to add your name, give yourself number 17).
+Each student must add their name with a number to the end of the list in the format: 1) 
+LASTNAME, FIRSTNAME
+When you add your name to the list, give yourself the next consecutive number available.
+e.g. if you are the 17th person to add your name, give yourself number 17).
 
 1) BUCK, ERIK
 2) BALASURIYA, LAKSHIKA *balasuriya3Lak
@@ -170,3 +174,4 @@ When you add your name to the list, give yourself the next consecutive number av
 40) Murphy, Joseph
 41) Zentgraf, Jonathan
 42) Hefner, Josh
+43) Chrisman, Ben
