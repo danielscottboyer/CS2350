@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 https://github.com/erikbuck/CS2350
 Instructions:
 Each student must add their name with a number to the end of the list in the format: 1) 
@@ -23,354 +21,57 @@ e.g. if you are the 17th person to add your name, give yourself number 17).
 14) Copper, Kevin
 15) KLOSTERMAN, SAMANTHA
 16) Cole, Zachary
-<<<<<<< HEAD
-16) Partin, Michael
-17) Landes, Eric
-18) Zink, Ryan
-=======
-<<<<<<< HEAD
-16) Bajaj, Goonmeet
-17) Drow, Anthony
-=======
 17) Partin, Michael
->>>>>>> a462969fdb2417e9def785e1e72200ef3f
->>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
-<<<<<<< HEAD
-18) DUNAWAY, PAUL
-=======
-18) Huggins, Jerry
->>>>>>> 5b21c72d82bd41e750efc37bd5cf601adab0673e
-19) Baum, Nathan
-20) Hale, Kaitlyn
-<<<<<<< HEAD
-21) Woodie, Alexander
-=======
-<<<<<<< HEAD
-=======
-21) Watkins,Maurice
-22) Pujara,Ajay
->>>>>>> testbranch
-23) Hughes, Patrick
->>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
-23) Oliver, Quintin
-<<<<<<< HEAD
-24) Donavan, Patrick
-=======
-24) Parrish, Ricardo
->>>>>>> 83eff22e0ce7d9e63d3a4bd6955677c9c7af0b71
-<<<<<<< HEAD
-25) Brown, Anthony
-26) Brown, Anthony
-
-=======
-<<<<<<< HEAD
-25) Spanbauer, Christopher
-=======
-25) Green, Allison
->>>>>>> f40f79db8077c4ff60596a265c053e0416ae2201
->>>>>>> e735ce306ae4a747aaa0ed8dbdf7db2965cb5ba5
-<<<<<<< HEAD
-<<<<<<< HEAD
-26*) Michael, Morath
-=======
-31) Smith, Ian
-32) Clay, Jordan
->>>>>>> 895022891bf6fb9d27254e237cc548102b879b1b
-=======
->>>>>>> parent of b6ee081... Ian's comment
-33)Johnson,Dexter
-<<<<<<<<<<Yo dex is here
-34)Ash, Elizabeth
-35) Murray, Eric
-=======
-https://github.com/erikbuck/CS2350
-Instructions:
-Each student must add their name with a number to the end of the list in the format: 1) 
-LASTNAME, FIRSTNAME
-When you add your name to the list, give yourself the next consecutive number available.
-e.g. if you are the 17th person to add your name, give yourself number 17).
-
-1) BUCK, ERIK
-2) BALASURIYA, LAKSHIKA *balasuriya3Lak
-3) HEWITT, JACOB  
-4) KOZAR, SALLY
-5) KONICKI, ANDREW
-6) BORKOWSKI, JEFFREY
-7) Cooper III, James L.
-8) Stevenson, Joshua
-9) Rutkowski, Michael
-10) Patel, Brij
-11) Vanderhorst, Krista
-12) PYLES, JONATHON
-13) Cody Reichard
-14) Copper, Kevin
-15) KLOSTERMAN, SAMANTHA
-16) Cole, Zachary
-<<<<<<< HEAD
-16) Partin, Michael
-17) Landes, Eric
-=======
-<<<<<<< HEAD
-16) Bajaj, Goonmeet
-17) Drow, Anthony
-=======
-17) Partin, Michael
->>>>>>> a462969fdb2417e9def785e1e72200ef3f
->>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
-<<<<<<< HEAD
-18) DUNAWAY, PAUL
-=======
-18) Huggins, Jerry
->>>>>>> 5b21c72d82bd41e750efc37bd5cf601adab0673e
-19) Baum, Nathan
-20) Hale, Kaitlyn
-<<<<<<< HEAD
-21) Woodie, Alexander
-======= 
-<<<<<<< HEAD
-=======
-21) Watkins,Maurice
-22) Pujara,Ajay
->>>>>>> testbranch
-23) Hughes, Patrick
->>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
-24) Oliver, Quintin
-<<<<<<< HEAD
-25) Donavan, Patrick
-=======
-26) Parrish, Ricardo
->>>>>>> 83eff22e0ce7d9e63d3a4bd6955677c9c7af0b71
-<<<<<<< HEAD
-27) Brown, Anthony
-28) Brown, Anthony
-
-=======
-<<<<<<< HEAD
-29) Spanbauer, Christopher
-=======
-30) Green, Allison
->>>>>>> f40f79db8077c4ff60596a265c053e0416ae2201
->>>>>>> e735ce306ae4a747aaa0ed8dbdf7db2965cb5ba5
-31) Smith, Ian
-32) Clay, Jordan
-33) Burkitt, Jordan
->>>>>>> c7396bc8a917647bf9b806cd8254bc23b9849a06
-<<<<<<< HEAD
-35) Parks, Cynthia
-
-=======
-34) Canfield, Brandin
-<<<<<<< HEAD
-35) DOWNS, COURTNEY
-=======
-<<<<<<< HEAD
->>>>>>> 9ba8eed92f40257f6a13888006cc37c01b54f141
-=======
-35)WOLFER,ETHAN
->>>>>>> 4784e0a47c9554ae232e5b8e59b69469a69d124a
-36) Gregory, COllin
-37) Parker, Jerome
->>>>>>> 0e46fc1e0ad1147ad803e303bb6174abc449bfd2
-38) Chestnut, Duncan
-39) Adams, John
-40) Murphy, Joseph
-41) Zentgraf, Jonathan
-42) Hefner, Josh
-43) Chrisman, Ben
-44) Alquohi, Abdulaziz
-45) Norris, Megan
-46) Howard, Brandon
-47) Spehar, Michael
-48) Elliott, Brittany
-=======
-<<<<<<< HEAD
-https://github.com/erikbuck/CS2350
-Instructions:
-Each student must add their name with a number to the end of the list in the format: 1) 
-LASTNAME, FIRSTNAME
-When you add your name to the list, give yourself the next consecutive number available.
-e.g. if you are the 17th person to add your name, give yourself number 17).
-
-1) BUCK, ERIK
-2) BALASURIYA, LAKSHIKA *balasuriya3Lak
-3) HEWITT, JACOB  
-4) KOZAR, SALLY
-5) KONICKI, ANDREW
-6) BORKOWSKI, JEFFREY
-7) Cooper III, James L.
-8) Stevenson, Joshua
-9) Rutkowski, Michael
-10) Patel, Brij
-11) Vanderhorst, Krista
-12) PYLES, JONATHON
-13) Cody Reichard
-14) Copper, Kevin
-15) KLOSTERMAN, SAMANTHA
-16) Cole, Zachary
-<<<<<<< HEAD
-16) Partin, Michael
-17) Landes, Eric
-18) Zink, Ryan
-=======
-<<<<<<< HEAD
-16) Bajaj, Goonmeet
-17) Drow, Anthony
-=======
-17) Partin, Michael
->>>>>>> a462969fdb2417e9def785e1e72200ef3f
->>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
-<<<<<<< HEAD
-18) DUNAWAY, PAUL
-=======
-18) Huggins, Jerry
->>>>>>> 5b21c72d82bd41e750efc37bd5cf601adab0673e
-19) Baum, Nathan
-20) Hale, Kaitlyn
-<<<<<<< HEAD
-21) Woodie, Alexander
-=======
-<<<<<<< HEAD
-=======
-21) Watkins,Maurice
-22) Pujara,Ajay
->>>>>>> testbranch
-23) Hughes, Patrick
->>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
-23) Oliver, Quintin
-<<<<<<< HEAD
-24) Donavan, Patrick
-=======
-24) Parrish, Ricardo
->>>>>>> 83eff22e0ce7d9e63d3a4bd6955677c9c7af0b71
-<<<<<<< HEAD
-25) Brown, Anthony
-26) Brown, Anthony
-
-=======
-<<<<<<< HEAD
-25) Spanbauer, Christopher
-=======
-25) Green, Allison
->>>>>>> f40f79db8077c4ff60596a265c053e0416ae2201
->>>>>>> e735ce306ae4a747aaa0ed8dbdf7db2965cb5ba5
-<<<<<<< HEAD
-<<<<<<< HEAD
-26*) Michael, Morath
-=======
-31) Smith, Ian
-32) Clay, Jordan
->>>>>>> 895022891bf6fb9d27254e237cc548102b879b1b
-=======
->>>>>>> parent of b6ee081... Ian's comment
-33)Johnson,Dexter
-<<<<<<<<<<Yo dex is here
-34)Ash, Elizabeth
-=======
-https://github.com/erikbuck/CS2350
-Instructions:
-Each student must add their name with a number to the end of the list in the format: 1) 
-LASTNAME, FIRSTNAME
-When you add your name to the list, give yourself the next consecutive number available.
-e.g. if you are the 17th person to add your name, give yourself number 17).
-
-1) BUCK, ERIK
-2) BALASURIYA, LAKSHIKA *balasuriya3Lak
-3) HEWITT, JACOB  
-4) KOZAR, SALLY
-5) KONICKI, ANDREW
-6) BORKOWSKI, JEFFREY
-7) Cooper III, James L.
-8) Stevenson, Joshua
-9) Rutkowski, Michael
-10) Patel, Brij
-11) Vanderhorst, Krista
-12) PYLES, JONATHON
-13) Cody Reichard
-14) Copper, Kevin
-15) KLOSTERMAN, SAMANTHA
-16) Cole, Zachary
-<<<<<<< HEAD
-16) Partin, Michael
-17) Landes, Eric
-=======
-<<<<<<< HEAD
-16) Bajaj, Goonmeet
-17) Drow, Anthony
-=======
-17) Partin, Michael
->>>>>>> a462969fdb2417e9def785e1e72200ef3f
->>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
-<<<<<<< HEAD
-18) DUNAWAY, PAUL
-=======
-18) Huggins, Jerry
->>>>>>> 5b21c72d82bd41e750efc37bd5cf601adab0673e
-19) Baum, Nathan
-20) Hale, Kaitlyn
-<<<<<<< HEAD
-21) Woodie, Alexander
-======= 
-<<<<<<< HEAD
-=======
-21) Watkins,Maurice
-22) Pujara,Ajay
->>>>>>> testbranch
-23) Hughes, Patrick
->>>>>>> 9bd61bd52a8471bf1593481a9fa2fc613a6833e9
-24) Oliver, Quintin
-<<<<<<< HEAD
-25) Donavan, Patrick
-=======
-26) Parrish, Ricardo
->>>>>>> 83eff22e0ce7d9e63d3a4bd6955677c9c7af0b71
-<<<<<<< HEAD
-27) Brown, Anthony
-28) Brown, Anthony
-49) Pyatt, Sabrina
-=======
-<<<<<<< HEAD
-29) Spanbauer, Christopher
-=======
-30) Green, Allison
->>>>>>> f40f79db8077c4ff60596a265c053e0416ae2201
->>>>>>> e735ce306ae4a747aaa0ed8dbdf7db2965cb5ba5
-31) Smith, Ian
-32) Clay, Jordan
-33) Burkitt, Jordan
->>>>>>> c7396bc8a917647bf9b806cd8254bc23b9849a06
-<<<<<<< HEAD
-35) Parks, Cynthia
-
-=======
-34) Canfield, Brandin
-<<<<<<< HEAD
-35) DOWNS, COURTNEY
-=======
-<<<<<<< HEAD
->>>>>>> 9ba8eed92f40257f6a13888006cc37c01b54f141
-=======
-35)WOLFER,ETHAN
->>>>>>> 4784e0a47c9554ae232e5b8e59b69469a69d124a
-36) Gregory, COllin
-37) Parker, Jerome
->>>>>>> 0e46fc1e0ad1147ad803e303bb6174abc449bfd2
-38) Chestnut, Duncan
-39) Adams, John
-40) Murphy, Joseph
-41) Zentgraf, Jonathan
-42) Hefner, Josh
-43) Chrisman, Ben
-44) Alquohi, Abdulaziz
-45) Norris, Megan
-46) Howard, Brandon
-47) Spehar, Michael
-48) Hawes, Brandon
-49) Rura, Logan
->>>>>>> a57b9bfef9ed7bd1e2b9313bacb59636a209ebb9
-50) Kyle Weinle
-51)Oliver, Alexandrea
-52) Yungmann, Mark
-53) Taggart, James
-54) Whittaker, Nathan
-55) Koenig, Aaron
-56) Taylor, Donald
+18) Landes, Eric
+19) Zink, Ryan
+20) Bajaj, Goonmeet
+21) Drow, Anthony
+22) DUNAWAY, PAUL
+23) Huggins, Jerry
+24) Baum, Nathan
+25) Hale, Kaitlyn
+26) Woodie, Alexander
+27) Watkins,Maurice
+28) Pujara,Ajay
+29) Hughes, Patrick
+30) Oliver, Quintin
+31) Donavan, Patrick
+32) Parrish, Ricardo
+33) Brown, Anthony
+34) Brown, Anthony
+35) Spanbauer, Christopher
+36) Green, Allison
+37) Michael, Morath
+38) Smith, Ian
+39) Clay, Jordan
+40) Johnson,Dexter
+41) Ash, Elizabeth
+42) Murray, Eric
+43) Burkitt, Jordan
+44) Parks, Cynthia
+45) Canfield, Brandin
+46) DOWNS, COURTNEY
+47) WOLFER,ETHAN
+48) Gregory, COllin
+49) Parker, Jerome
+50) Chestnut, Duncan
+51) Adams, John
+52) Murphy, Joseph
+53) Zentgraf, Jonathan
+54) Hefner, Josh
+55) Chrisman, Ben
+56) Alquohi, Abdulaziz
+57) Norris, Megan
+58) Howard, Brandon
+59) Spehar, Michael
+60) Elliott, Brittany
+61) Pyatt, Sabrina
+62) Hawes, Brandon
+63) Rura, Logan
+64) Kyle Weinle
+65) Oliver, Alexandrea
+66) Yungmann, Mark
+67) Taggart, James
+68) Whittaker, Nathan
+69) Koenig, Aaron
+70) Taylor, Donald
