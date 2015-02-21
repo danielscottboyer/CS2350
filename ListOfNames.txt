@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 https://github.com/erikbuck/CS2350
 Instructions:
 Each student must add their name with a number to the end of the list in the format: 1) 
@@ -23,16 +21,8 @@ e.g. if you are the 17th person to add your name, give yourself number 17).
 14) Copper, Kevin
 15) KLOSTERMAN, SAMANTHA
 16) Cole, Zachary
-<<<<<<< HEAD
-16) Partin, Michael
-17) Landes, Eric
-18) Zink, Ryan
-=======
-<<<<<<< HEAD
-16) Bajaj, Goonmeet
-17) Drow, Anthony
-=======
 17) Partin, Michael
+<<<<<<< HEAD
 >>>>>>> a462969fdb2417e9def785e1e72200ef3f
 >>>>>>> a76101fca0ae62366ee2d487f7704a832be8f309
 <<<<<<< HEAD
@@ -365,3 +355,71 @@ e.g. if you are the 17th person to add your name, give yourself number 17).
 47) Spehar, Michael
 48) Hawes, Brandon
 >>>>>>> a57b9bfef9ed7bd1e2b9313bacb59636a209ebb9
+=======
+18) Landes, Eric
+19) Zink, Ryan
+20) Bajaj, Goonmeet
+21) Drow, Anthony
+22) DUNAWAY, PAUL
+23) Huggins, Jerry
+24) Baum, Nathan
+25) Hale, Kaitlyn
+26) Woodie, Alexander
+27) Watkins,Maurice
+28) Pujara,Ajay
+29) Hughes, Patrick
+30) Oliver, Quintin
+31) Donavan, Patrick
+32) Parrish, Ricardo
+33) Brown, Anthony
+34) Brown, Anthony
+35) Spanbauer, Christopher
+36) Green, Allison
+37) Michael, Morath
+38) Smith, Ian
+39) Clay, Jordan
+40) Johnson,Dexter
+41) Ash, Elizabeth
+42) Murray, Eric
+43) Burkitt, Jordan
+44) Parks, Cynthia
+45) Canfield, Brandin
+46) DOWNS, COURTNEY
+47) WOLFER,ETHAN
+48) Gregory, COllin
+49) Parker, Jerome
+50) Chestnut, Duncan
+51) Adams, John
+52) Murphy, Joseph
+53) Zentgraf, Jonathan
+54) Hefner, Josh
+55) Chrisman, Ben
+56) Alquohi, Abdulaziz
+57) Norris, Megan
+58) Howard, Brandon
+59) Spehar, Michael
+60) Elliott, Brittany
+61) Pyatt, Sabrina
+62) Hawes, Brandon
+63) Rura, Logan
+64) Kyle Weinle
+65) Oliver, Alexandrea
+66) Yungmann, Mark
+67) Taggart, James
+68) Whittaker, Nathan
+69) Koenig, Aaron
+70) Taylor, Donald
+71) Jenkins, Tyler
+72) Muetzel, Hannah
+73) Klaassen, John
+74) Elting, Jason
+75) Webb, Eric
+76) MacLeod, Jacob
+77) Polen, Joseph
+78) Duncan, Hallie
+79) May, Jacob
+80) Noah Taylor
+81) KAY, MICHAEL
+82) Phillips, Grant
+83) Poeppelman, David
+>>>>>>> 9d4d072711c7d140016b05b449bc89f24f547046
