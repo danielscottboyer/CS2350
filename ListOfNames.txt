@@ -13,6 +13,7 @@ e.g. if you are the 17th person to add your name, give yourself number 17).
 6) BORKOWSKI, JEFFREY
 7) Cooper III, James L.
 8) Stevenson, Joshua
+8.5) Rickert, Logan
 9) Rutkowski, Michael
 10) Patel, Brij
 11) Vanderhorst, Krista
