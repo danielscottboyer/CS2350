@@ -1,0 +1,85 @@
+https://github.com/erikbuck/CS2350
+Instructions:
+Each student must add their name with a number to the end of the list in the format: 1) 
+LASTNAME, FIRSTNAME
+When you add your name to the list, give yourself the next consecutive number available.
+e.g. if you are the 17th person to add your name, give yourself number 17).
+
+1) BUCK, ERIK
+2) BALASURIYA, LAKSHIKA *balasuriya3Lak
+3) HEWITT, JACOB  
+4) KOZAR, SALLY
+5) KONICKI, ANDREW
+6) BORKOWSKI, JEFFREY
+7) Cooper III, James L.
+8) Stevenson, Joshua
+9) Rutkowski, Michael
+10) Patel, Brij
+11) Vanderhorst, Krista
+12) PYLES, JONATHON
+13) Cody Reichard
+14) Copper, Kevin
+15) KLOSTERMAN, SAMANTHA
+16) Cole, Zachary
+17) Partin, Michael
+18) Landes, Eric
+19) Zink, Ryan
+20) Bajaj, Goonmeet
+21) Drow, Anthony
+22) DUNAWAY, PAUL
+23) Huggins, Jerry
+24) Baum, Nathan
+25) Hale, Kaitlyn
+26) Woodie, Alexander
+27) Watkins,Maurice
+28) Pujara,Ajay
+29) Hughes, Patrick
+30) Oliver, Quintin
+31) Donavan, Patrick
+32) Parrish, Ricardo
+33) Brown, Anthony
+34) Brown, Anthony
+35) Spanbauer, Christopher
+36) Green, Allison
+37) Michael, Morath
+38) Smith, Ian
+39) Clay, Jordan
+40) Johnson,Dexter
+41) Ash, Elizabeth
+42) Murray, Eric
+43) Burkitt, Jordan
+44) Parks, Cynthia
+45) Canfield, Brandin
+46) DOWNS, COURTNEY
+47) WOLFER,ETHAN
+48) Gregory, COllin
+49) Parker, Jerome
+50) Chestnut, Duncan
+51) Adams, John
+52) Murphy, Joseph
+53) Zentgraf, Jonathan
+54) Hefner, Josh
+55) Chrisman, Ben
+56) Alquohi, Abdulaziz
+57) Norris, Megan
+58) Howard, Brandon
+59) Spehar, Michael
+60) Elliott, Brittany
+61) Pyatt, Sabrina
+62) Hawes, Brandon
+63) Rura, Logan
+64) Kyle Weinle
+65) Oliver, Alexandrea
+66) Yungmann, Mark
+67) Taggart, James
+68) Whittaker, Nathan
+69) Koenig, Aaron
+70) Taylor, Donald
+71) Jenkins, Tyler
+72) Muetzel, Hannah
+73) Klaassen, John
+74) Elting, Jason
+75) Webb, Eric
+76) MacLeod, Jacob
+77) Polen, Joseph
+78) Duncan, Hallie
