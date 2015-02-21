@@ -61,7 +61,7 @@ e.g. if you are the 17th person to add your name, give yourself number 17).
 <<<<<<< HEAD
 25) Brown, Anthony
 26) Brown, Anthony
-
+27) Klumb, Dustin
 =======
 <<<<<<< HEAD
 25) Spanbauer, Christopher
